@@ -1,4 +1,5 @@
 // Statistik kompresi dinonaktifkan sesuai permintaan. Halaman ini tidak digunakan.
+import Navbar from '../../components/Navbar';
 import Footer from '../../components/Footer';
 import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
